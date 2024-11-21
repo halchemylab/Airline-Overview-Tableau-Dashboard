@@ -1,4 +1,4 @@
-# All-Tableau-Dashboard-Projects
+# Tableau-Dashboard-Projects
 
 HR Tableau Dashboard:
 
