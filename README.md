@@ -2,7 +2,7 @@
 
 HR Tableau Dashboard:
 
-https://public.tableau.com/app/profile/halchemy/viz/hr_dashboard_112024/Dashboard#1
+https://public.tableau.com/app/profile/halchemy/viz/hr_dashboard_112024/EmployeeOverview
 
 Airline Overview Tableau Dashboard: 
 
